@@ -4,14 +4,14 @@ Télésurveillance LoRaWAN d’infrastructures hydrauliques (ESP32, Node-RED....
 > Projet de Fin d'Études — SUP'PTIC Yaoundé (2023–2026)
 > Système IoT de supervision à distance d'un réseau hydraulique, pensé pour les besoins d'un opérateur comme CAMWATER.
 
-![Capture du tableau de bord](docs/images/dashboard.png)
+![Capture du tableau de bord]("E:\Logiciels\architechture.jpg")
 
 ## 1. Problème et objectif
 Le soucis étant de resoudre le problème de supervision et gestion des infracstructures hydrauliques étant encore jusque là triviaux il est nés donc l'idées de pouvoir non seulement tout voir(les différents paramètres du fonctionnement de l'infrastructure)  sur un Dashboard mais aussi de relayer ces données des zone reculées(à couverture réseaux réduites) afin d'avoir en tout tant le moindre soucis ou parametres de ces zones quel qu'elle soit en temps réels afin d'améliorer, faciliter et assurer la bonne gestion et continuité de service de ces infrastructures. 
 
 
 ## 2. Architecture
-![Schéma d'architecture](docs/images/architecture.png)
+![Schéma d'architecture]("E:\Logiciels\architechture.jpg")
 | Couche | Technologie |
 |---|---|
 | Capteurs | À COMPLÉTER (débit, pression, niveau, qualité de l'eau, position GPS, consommation d'énergies, contrôle du dispositifs ) |
